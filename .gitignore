@@ -1,0 +1,6 @@
+# directories
+spark-warehouse/
+
+# files
+pysparkDF.csv
+pandasDF.csv
