@@ -1,5 +1,7 @@
 # Pandas-equivalent-in-PySpark
-Pandas query equivalent in PySpark
+**pandas** is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. *pandas* allows us to focus more on research and less on programming. *pandas* is the perfect tool for bridging the gap between rapid iterations of ad-hoc analysis and production quality code [1](http://pandas.pydata.org/).
+
+**Apache Spark** is a fast and general engine for large-scale data processing. Run programs up to 100x faster than Hadoop MapReduce in memory, or 10x faster on disk. Spark runs on Hadoop, Mesos, standalone, or in the cloud. It can access diverse data sources including HDFS, Cassandra, HBase, and S3 [2](https://spark.apache.org/).
 
 ## Dependencies
 1. Python 3.5.2
