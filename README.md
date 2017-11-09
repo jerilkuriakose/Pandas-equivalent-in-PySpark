@@ -17,7 +17,7 @@ This repo has the PySpark equivalent code for the *pandas* queries. This can sav
 ## Contributing to the repo
 All contributions, bug reports, bug fixes, documentation improvements, enhancements and ideas are welcome.
 
-A detailed overview on how to contribute can be found in the **[contributing guide.](https://pandas.pydata.org/pandas-docs/stable/contributing.html)**
+A detailed overview on how to contribute can be found in the **[contributing guide.](https://gist.github.com/MarcDiethelm/7303312)**
 
 If you are simply looking to start working with the repo's codebase, navigate to the [GitHub “issues” tab](https://github.com/jerilkuriakose/Pandas-equivalent-in-PySpark/issues) and start looking through interesting issues.
 
