@@ -8,4 +8,4 @@ Pandas query equivalent in PySpark
 4. Pandas 0.21.0
 
 ## Table of contents
-1. [Chapter 1 - CSV file handling]()
+1. [Chapter 1 - CSV file handling](http://nbviewer.jupyter.org/github/jerilkuriakose/Pandas-equivalent-in-PySpark/blob/master/notebooks/Chapter%201%20-%20CSV%20file%20handling.ipynb)
