@@ -1,9 +1,13 @@
 # directories
 spark-warehouse/
 
+# spark save file directory
+file-*.csv/
+file-*.txt/
+
 # files
-pysparkDF.csv
-pandasDF.csv
+file-*.csv
+file-*.txt
 
 # ipython checkpoint
 .ipynb_checkpoints/
