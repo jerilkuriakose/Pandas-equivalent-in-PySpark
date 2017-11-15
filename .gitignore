@@ -10,6 +10,9 @@ file-*.parquet/
 file-*.csv
 file-*.txt
 file-*.parquet
+dummy-*.ipynb
+dummy-*.py
+Untitled.txt
 
 # ipython checkpoint
 .ipynb_checkpoints/
