@@ -4,10 +4,12 @@ spark-warehouse/
 # spark save file directory
 file-*.csv/
 file-*.txt/
+file-*.parquet/
 
 # files
 file-*.csv
 file-*.txt
+file-*.parquet
 
 # ipython checkpoint
 .ipynb_checkpoints/
