@@ -13,6 +13,7 @@ This repo has the PySpark equivalent code for the *pandas* queries. This can sav
 
 ## Table of contents
 1. [Chapter 1 - File handling](http://nbviewer.jupyter.org/github/jerilkuriakose/Pandas-equivalent-in-PySpark/blob/master/notebooks/Chapter%201%20-%20File%20handling.ipynb)
+2. [Chapter 2 - Basic commands](http://nbviewer.jupyter.org/github/jerilkuriakose/Pandas-equivalent-in-PySpark/blob/master/notebooks/Chapter%202%20-%20Basic%20commands.ipynb)
 
 ## Contributing to the repo
 All contributions, bug reports, bug fixes, documentation improvements, enhancements and ideas are welcome.
