@@ -148,5 +148,5 @@ df.describe().show()
 
 
 # To get unique values
-df.select('Pclass').distinct().show()
+df[['Pclass']].distinct().show(5)
 
